@@ -44,6 +44,6 @@ Space is hard. There are regular manned missions to the ISS and new probes are b
 
 <sup>[5]</sup> <https://www.nasa.gov/feature/goddard/real-martians-how-to-protect-astronauts-from-space-radiation-on-mars>
 
-<sup>[6]</sup> https://pursuit.unimelb.edu.au/articles/getting-sick-in-space-on-the-way-to-mars
+<sup>[6]</sup> <https://pursuit.unimelb.edu.au/articles/getting-sick-in-space-on-the-way-to-mars>
 
-<sup>[7]</sup> https://www.nasa.gov/mission_pages/newhorizons/overview/
+<sup>[7]</sup> <https://www.nasa.gov/mission_pages/newhorizons/overview/>
