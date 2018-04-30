@@ -34,15 +34,15 @@ Space is hard. There are regular manned missions to the ISS and new probes are b
 
 # References
 
-<sup>[1]</sup> http://earthguide.ucsd.edu/eoc/special_topics/teach/sp_climate_change/p_planet_temp.html
+<sup>[1]</sup> <http://earthguide.ucsd.edu/eoc/special_topics/teach/sp_climate_change/p_planet_temp.html>
 
-<sup>[2]</sup> http://sci.esa.int/venus-express/34067-venus-vs-earth/
+<sup>[2]</sup> <http://sci.esa.int/venus-express/34067-venus-vs-earth/>
 
-<sup>[3]</sup> https://mars.nasa.gov/allaboutmars/facts/
+<sup>[3]</sup> <https://mars.nasa.gov/allaboutmars/facts/>
 
-<sup>[4]</sup> https://www.mars-one.com/faq/mission-to-mars/why-mars-and-not-another-planet
+<sup>[4]</sup> <https://www.mars-one.com/faq/mission-to-mars/why-mars-and-not-another-planet>
 
-<sup>[5]</sup> https://www.nasa.gov/feature/goddard/real-martians-how-to-protect-astronauts-from-space-radiation-on-mars
+<sup>[5]</sup> <https://www.nasa.gov/feature/goddard/real-martians-how-to-protect-astronauts-from-space-radiation-on-mars>
 
 <sup>[6]</sup> https://pursuit.unimelb.edu.au/articles/getting-sick-in-space-on-the-way-to-mars
 
