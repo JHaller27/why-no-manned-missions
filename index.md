@@ -28,9 +28,15 @@ Perhaps the most impossible of all these tasks remains, however. Given the time 
 Space is hard. There are regular manned missions to the ISS and new probes are being launched seemingly every few weeks. However, manned missions to other planets is another beast completely. While not impossible in theory, a manned mission to another planet (namely Mars) requires much more research, time, and funding. Some sources put an estimated deadline of ~2030 for the launch of a manned mission to Mars, however there are still significant challenges that need to be addressed first.
 
 # References
+
 1 http://earthguide.ucsd.edu/eoc/special_topics/teach/sp_climate_change/p_planet_temp.html
+
 2 http://sci.esa.int/venus-express/34067-venus-vs-earth/
+
 3 https://mars.nasa.gov/allaboutmars/facts/
+
 4 https://www.mars-one.com/faq/mission-to-mars/why-mars-and-not-another-planet
+
 5 https://www.nasa.gov/feature/goddard/real-martians-how-to-protect-astronauts-from-space-radiation-on-mars
+
 6 https://pursuit.unimelb.edu.au/articles/getting-sick-in-space-on-the-way-to-mars
